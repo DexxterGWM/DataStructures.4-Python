@@ -8,4 +8,4 @@ And here is the link/presentation for/of the project:
 
 | Project                                                                                                                     | Site                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [Class](https://github.com/DexxterGWM/DataStructures.4-Python/tree/main/Section)                             | [Live Demo](https://replit.com/@DexxterGWM/DataStructures4-Python-4?v=1)               |
+| [File](https://github.com/DexxterGWM/DataStructures.4-Python/tree/main/Section)                             | [Live Demo](https://replit.com/@DexxterGWM/DataStructures4-Python-4?v=1)               |
